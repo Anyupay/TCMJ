@@ -41,19 +41,6 @@
 </head>
 <body>
   <script>
-    var ele = document.documentElement;
-if (ele.requestFullscreen) {
-          ele.requestFullscreen();
-      } else if (ele.mozRequestFullScreen) {
-          ele.mozRequestFullScreen();
-      } else if (ele.webkitRequestFullscreen) {
-          ele.webkitRequestFullscreen();
-      } else if (ele.msRequestFullscreen) {
-          ele.msRequestFullscreen();
-      }
-
-screen.orientation.lock('landscape');
-
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
