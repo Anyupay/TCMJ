@@ -3,7 +3,7 @@ Traditional Chinese Medical Journey
 
 一个普及中医药知识的web端游戏
 
-仅用于国内静态网页托管使用
+此分支仅用于国内静态网页托管使用
 
 扫描如下QR code可以开启此游戏
 
