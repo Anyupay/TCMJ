@@ -32,4 +32,7 @@
 4. 双向选择剧情，不同的选择触发不同的剧情，引导用户了解更多中医药知识
 
 ## 如何运行
-访问游戏URL：https://anyupay.github.io/TCMJ/即可运行游戏
+访问游戏URL：https://anyupay.github.io/TCMJ/
+
+## 注意
+如果中国大陆用户，可以访问
