@@ -35,4 +35,4 @@
 访问游戏URL：https://anyupay.github.io/TCMJ/
 
 ## 注意
-如果中国大陆用户，可以访问
+中国大陆用户可以前往[gh-pages](https://github.com/Anyupay/TCMJ/tree/gh-pages)分支获得良好网络体验
