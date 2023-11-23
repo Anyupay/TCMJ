@@ -1,5 +1,44 @@
 # TCMJ - Traditional Chinese Medical Journey
 
+# Zhenhe Tang: A Visual Novel Game on Traditional Chinese Medicine Culture
+(Note: For a Chinese introduction, please scroll down.  
+注: 中文介绍请向下滚动。)
+
+Zhenhe Tang is a visual novel game designed using the Flutter framework, aimed at introducing users to the culture of traditional Chinese medicine through an immersive experience. The game focuses on four representative professions in traditional Chinese medicine: herbalist, TCM practitioner, acupuncturist, and pharmacist. It offers a rich cultural experience of traditional Chinese medicine through various interactive scenes.
+
+## Design Concept
+
+- Visual novel format, using images and music to present game information
+- Role-playing experience to understand traditional Chinese medicine culture in an immersive way
+- Multiple scene transitions to create an immersive experience
+- Interactive experiences to deepen users' understanding of traditional Chinese medicine
+
+## Game Scenes
+
+1. Herbal Hall: Displaying herbs, where users learn about the effects of herbs through herbal therapy mini-games
+2. Tianyi Institute: Learning TCM practitioners' diagnostic methods and understanding common disease prescriptions
+3. Acupuncture Pavilion: Offering acupuncture services, teaching users about acupoint effects, and practicing acupuncture treatment
+
+## Character Introduction
+
+1. Grandfather: An expert in herbal medicine theory and materials, guiding players into the game world
+2. Dr. Wang: A TCM practitioner skilled in pulse diagnosis, teaching users how to diagnose diseases
+3. Acupuncturist: Specializing in acupuncture treatment, guiding users in learning acupuncture techniques
+4. Grandpa Li: A pharmacist skilled in medicine-making, imparting knowledge on pharmaceuticals
+
+## Features
+
+1. Visual novel format, using images and music to present game information, avoiding fatigue from too much text
+2. Multiple scene transitions to create an immersive experience
+3. Interactive experience to enhance users' impression of traditional Chinese medicine
+4. Two-way choice storylines, different choices trigger different plots, guiding users to learn more about traditional Chinese medicine
+
+## How to Run
+Visit the game URL: https://anyupay.github.io/TCMJ/
+
+## Note
+Users in mainland China can visit the [gh-pages](https://github.com/Anyupay/TCMJ/tree/gh-pages) branch for a better network experience.
+
 # 诊和堂：中医药文化视觉小说游戏
 
 诊和堂是一款基于Flutter框架设计的视觉小说游戏，旨在通过沉浸式体验让用户了解中医药文化。游戏以中药学者、中医师、针灸师和药剂师这四个具有代表性的中医药职业为主线，通过多种交互场景带给用户丰富的中医药文化体验。
