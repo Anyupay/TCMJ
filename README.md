@@ -72,6 +72,3 @@ Users in mainland China can visit the [gh-pages](https://github.com/Anyupay/TCMJ
 
 ## 如何运行
 访问游戏URL：https://anyupay.github.io/TCMJ/
-
-## 注意
-中国大陆用户可以前往[gh-pages](https://github.com/Anyupay/TCMJ/tree/gh-pages)分支获得良好网络体验
